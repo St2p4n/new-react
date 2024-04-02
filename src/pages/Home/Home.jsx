@@ -7,6 +7,9 @@ export default function Home() {
    <Link to={"/About"}>
       <p>About us</p>
    </Link>
+   <Link to={"/clicker"}>
+      <p>Clicker</p>
+   </Link>
    </>
   );
 }
